@@ -189,4 +189,3 @@ tiles.setTilemap(tiles.createTilemap(
             [myTiles.tile0,myTiles.tile1,myTiles.tile2,myTiles.tile3,myTiles.tile4],
             TileScale.Sixteen
         ))
-tiles.setWallAt(tiles.getTileLocation(0, 0), true)
